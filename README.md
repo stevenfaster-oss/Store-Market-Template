@@ -317,6 +317,3 @@ app/
 - مستندات Jetpack Compose
 - توسعه‌دهندگان اندروید گوگل
 - راهنمای Material Design 3
-
-
-Uploading BAACAgQAAxkDA7HyF2pVE3xQBjD52mPXOn0cusJdchW0AAIgCwACtzKtUny5J2gTjMrsPAQ.mp4…
