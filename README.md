@@ -1,7 +1,4 @@
 
-https://github.com/user-attachments/assets/7cb92ebb-e5b7-4255-beed-8ac8459f29ad
-
-https://github.com/user-attachments/assets/b42515b7-37f4-42d7-a77c-8ec977e719f4
 # Store Market Template
 
 A modern Android shopping application built with Jetpack Compose, following clean architecture with a unidirectional data flow pattern. This template demonstrates a complete e-commerce UI implementation with offline-first approach using Room database.
