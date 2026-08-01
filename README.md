@@ -77,7 +77,7 @@ ir.yaghotcod.test2/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/store-market-template.git
+git clone https://github.com/stevenfaster-oss/store-market-template.git
 ```
 
 2. Open the project in Android Studio
@@ -238,7 +238,7 @@ ir.yaghotcod.test2/
 
 1. کلون کردن مخزن
 ```bash
-git clone https://github.com/yourusername/store-market-template.git
+git clone https://github.com/stevenfaster-oss/store-market-template.git
 ```
 
 2. باز کردن پروژه در Android Studio
