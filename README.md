@@ -149,7 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - [@stevenfaster-oss](https://github.com/stevenfaster-oss)
+- [@stevenfaster-oss](https://github.com/stevenfaster-oss)
 
 ## 🙏 Acknowledgments
 
@@ -309,8 +309,7 @@ app/
 این پروژه تحت مجوز MIT منتشر شده است - برای جزئیات به فایل [LICENSE](LICENSE) مراجعه کنید.
 
 ## 👥 نویسندگان
-
-- نام شما - [@stevenfaster-oss](https://github.com/stevenfaster-oss)
+- [@stevenfaster-oss](https://github.com/stevenfaster-oss)
 
 ## 🙏 قدردانی
 
